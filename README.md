@@ -2,12 +2,18 @@
 
 ## Havel-Hakimi
 
-[Demo](havelHakimi_Demo.mp4)
+![havel-hakimi demo gif](demos/havelHakimi_Demo.gif)
+
+[Demo video](havelHakimi_Demo.mp4)
 
 ## Kruskal Algorithm
 
-[Demo](kruskal_Demo.mp4)
+![kruskal demo gif](demos/kruskal_Demo.gif)
+
+[Demo video](kruskal_Demo.mp4)
 
 ## Prim Algorithm
 
-[Demo](prim_Demo.mp4)
+![prim demo gif](demos/prim_Demo.gif)
+
+[Demo video](demos/prim_Demo.mp4)
